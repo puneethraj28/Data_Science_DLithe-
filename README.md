@@ -6,6 +6,7 @@ Here I worked with some different datasets, Analyzed, Applied some datascience o
 # Needs of this project
  Data processing/cleanin, Data exploration/descriptive statistics, Statistical modelling
 
+# Projects
 1) DataScience_Internship_Car : In this project I imported the Car dataset  which contains details about car 
    & applied some dataframe basic operation,& also applied random forest regression algorithm to train and test the model.
    Plotted 3D plot for year,Present price& KMs driven.Plotted Bar plot for owner,transmission etc..
