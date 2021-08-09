@@ -4,9 +4,7 @@ Hello, These are my DataScience Projects .
 Here I worked with some different datasets, Analyzed, Applied some datascience operation & Tried to represent Data.
 
 # Needs of this project
-.Data processing/cleaning
-.Data exploration/descriptive statistics
-.Statistical modelling
+.Data processing/cleanin     .Data exploration/descriptive statistics       .Statistical modelling
 
 1) DataScience_Internship_Car : In this project I imported the Car dataset  which contains details about car 
    & applied some dataframe basic operation,& also applied random forest regression algorithm to train and test the model.
